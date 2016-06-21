@@ -1,1 +1,1 @@
-fachbot testing
+bot testing
